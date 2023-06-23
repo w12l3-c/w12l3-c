@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **w12l3-c/w12l3-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌞 About me:
+## 🌞 About me:
 - I am Wallace, and I like ML(CV and Generative) and Health. 
 - I would love to work on open source projects if there are any opportunities.
 
-You can reach me through:<br>
 <a href="https://www.linkedin.com/in/wallace-lee-yh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---
