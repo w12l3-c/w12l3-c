@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 You can reach me through:<br>
 <a href="https://www.linkedin.com/in/wallace-lee-yh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+---
 ### 🛠️ Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -52,4 +53,6 @@ You can reach me through:<br>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cuda_icon_130656.png" title="Cuda" alt="Cuda" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 </div>
+
+---
 
