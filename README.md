@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌞 About me:
+## 🦾 About me:
 - I am Wallace, and I like ML(CV and Generative) and Health. 
 - I would love to work on open source projects if there are any opportunities.
 
