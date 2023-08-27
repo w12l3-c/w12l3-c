@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🦾 About me:
-- I am Wallace, and I like ML(CV and Generative) and Health. 
+- I am Wallace, and I like working on ML(CV, Generative, NLP, Tabular) with Health. 
 - I would love to work on open source projects if there are any opportunities.
 
 <a href="https://www.linkedin.com/in/wallace-lee-yh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
