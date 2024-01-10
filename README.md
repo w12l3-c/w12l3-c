@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# My Website
-[Wallace's Website](w12l3-c.github.io/wal/)
+# 🔥 My Website
+[Wallace's Website 🔥](w12l3-c.github.io/wal/) 
 
 ## 🦾 About me:
 - I am Wallace, and I like working on ML(CV, Generative, NLP, Tabular) with Health. 
