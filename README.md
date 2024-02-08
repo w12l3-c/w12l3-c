@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 [Wallace's Website 🔥](w12l3-c.github.io/wal/) 
 
 ## 🦾 About me:
-- I am Wallace, and I like working on ML(CV, Generative, NLP, Tabular) with Health. 
+- I am Wallace, and I mainly work on ML(CV, Generative, NLP) with Health.
+- I also work with medical robotics and medical devices like Focused Ultrasound and MRI  
 - I would love to work on open source projects if there are any opportunities.
 
 <a href="https://www.linkedin.com/in/wallace-lee-yh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
