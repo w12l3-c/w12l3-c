@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 🔥 My Website
-[Wallace's Website 🔥](w12l3-c.github.io/wal/) 
+[Wallace's Website 🔥](https://w12l3-c.github.io/wal/)
 
 ## 🦾 About me:
 - I am Wallace, and I mainly work on ML(CV, Generative, NLP) with Health.
